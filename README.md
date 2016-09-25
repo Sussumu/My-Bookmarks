@@ -30,9 +30,9 @@ Articles, tutorials, software, speechs, etc mostly about development (:
 
 ### Game Jams
 
-[One Game a Month](http://onegameamonth.com) - start whenever you want and create one game a month. Has a big community with leaderboards and happy people. Hosted by Christer Kaitila ([@McFunkypants][http://twitter.com/McFunkyPants]).
+[One Game a Month](http://onegameamonth.com) - start whenever you want and create one game a month. Has a big community with leaderboards and happy people. Hosted by Christer Kaitila ([@McFunkypants](http://twitter.com/McFunkyPants)).
 
-[Ludum Dare](http://ludumdare.com/compo/) - 48h. The biggest online game jam and happens three times a year. There's also small versions known as Mini Ludum Dare. Hosted by Mike Kasprzak ([@mikekasprzak)][http://twitter.com/mikekasprzak]).
+[Ludum Dare](http://ludumdare.com/compo/) - 48h. The biggest online game jam and happens three times a year. There's also small versions known as Mini Ludum Dare. Hosted by Mike Kasprzak ([@mikekasprzak](http://twitter.com/mikekasprzak)).
 
 [Global Game Jam](http://globalgamejam.org) - the biggest presential game jam. You need to find or set up a place to participate.
 
