@@ -14,6 +14,16 @@ Articles, tutorials, software, speechs, etc mostly about development (:
 
 [Eloquent Javascript](http://eloquentjavascript.net) - interactive online book about Javascript, has snippets of code to test and awesome explanations.
 
+### Utils
+
+[Loading.io](http://loading.io) - customize and download loading icons for free
+
+[Fa2PNG](http://fa2png.io/) - convert and download Fonts Awesome icons as images
+
+[JsonLint](http://jsonlint.com) - checks and validates Json code
+
+[GeoJSON.io](http://geojson.io) - create GeoJSON features format to use on maps by drawing directly on the map
+
 ### Other
 
 [Html5 reference](http://html5doctor.com/element-index/) - quick reference for the new Html5 elements
