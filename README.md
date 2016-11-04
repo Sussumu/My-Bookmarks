@@ -16,6 +16,10 @@ Articles, tutorials, software, speechs, etc mostly about development (:
 
 ### Utils
 
+[StackShare](http://stackshare.io/) - compares lots of dev tools by feature
+
+[Built With](https://builtwith.com/) - see what technologies websites are using. Check [Wappalyzer](https://wappalyzer.com) if you prefer a Chrome extension instead
+
 [Loading.io](http://loading.io) - customize and download loading icons for free
 
 [Fa2PNG](http://fa2png.io/) - convert and download Fonts Awesome icons as images
