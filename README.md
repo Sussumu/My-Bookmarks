@@ -28,11 +28,15 @@ Articles, tutorials, software, speechs, etc mostly about development (:
 
 [GeoJSON.io](http://geojson.io) - create GeoJSON features format to use on maps by drawing directly on the map
 
+### Design
+
+[Color picker](https://color.hailpixel.com) - simple color picker to create a palette. Choose the color by moving your mouse and scrolling the page.
+
+[This is Responsive](https://bradfrost.github.io/this-is-responsive/index.html) - Patterns and resources for responsive design
+
 ### Other
 
 [Html5 reference](http://html5doctor.com/element-index/) - quick reference for the new Html5 elements
-
-[Color picker](https://color.hailpixel.com) - simple color picker to create a palette. Choose the color by moving your mouse and scrolling the page.
 
 [Javascript Weekly](http://javascriptweekly.com) - weekly newsletter with news about js world.
 
