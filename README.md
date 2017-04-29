@@ -16,6 +16,8 @@ Articles, tutorials, software, speechs, etc mostly about development (:
 
 ### Utils
 
+[RegexGenerator](http://http://regex.inginf.units.it/) - generates regex for you based on examples. Can't get any easier...
+
 [StackShare](http://stackshare.io/) - compares lots of dev tools by feature
 
 [Built With](https://builtwith.com/) - see what technologies websites are using. Check [Wappalyzer](https://wappalyzer.com) if you prefer a Chrome extension instead
