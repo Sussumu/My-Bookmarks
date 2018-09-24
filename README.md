@@ -32,7 +32,7 @@ Articles, tutorials, software, speechs, etc mostly about development (:
 
 ### Design
 
-[Color picker](https://color.hailpixel.com) - simple color picker to create a palette. Choose the color by moving your mouse and scrolling the page.
+[Color picker](https://www.colorbox.io/) - an actually good color picker by Lift
 
 [This is Responsive](https://bradfrost.github.io/this-is-responsive/index.html) - Patterns and resources for responsive design
 
